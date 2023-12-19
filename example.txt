@@ -1,1 +1,2 @@
 ini file example txt
+ini tambahan line di example.txt
